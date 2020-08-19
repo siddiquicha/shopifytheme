@@ -54,7 +54,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {%- include 'social-meta-tags' -%}
 
   {% include 'font-face' %}
-  {% raw %}{{ 'theme.scss.css' | asset_url | stylesheet_tag }}{% endraw %}
+  {{ 'theme.scss.css' | asset_url | stylesheet_tag }}
 
   <style>
     .collection-item__title {
