@@ -1,8 +1,11 @@
-# Dawn
+# eCommerce Theme
+
 
 ## Getting started
+- Set the all command which work with the theme.
 
-## Staying up to date with Dawn changes
+
+## Staying up to version update
 
 ## Developer tools
 
